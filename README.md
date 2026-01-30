@@ -1,5 +1,4 @@
 # amitaibenshalom.github.io
-title: Amitai's github page
 
 <div align="center">
 
